@@ -28,7 +28,7 @@ DEBUG = True
 STATIC_ROOT = os.path.join(BASE_DIR, 'static')
 
 ALLOWED_HOSTS = [
-    "shantanu2k21.pythonanywhere.com",
+    "shantanu2k17.pythonanywhere.com",
     "localhost",
     '127.0.0.1',
 ]
